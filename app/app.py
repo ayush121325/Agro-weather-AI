@@ -45,7 +45,7 @@ page = st.sidebar.radio(
     "NAVIGATION",
     [
         "Overview",
-        "Crop Yield Prediction"
+        "Crop Yield Prediction",
         "Irrigation Advisory",
         "Rainfall Analytics",
         "Model Performance"
